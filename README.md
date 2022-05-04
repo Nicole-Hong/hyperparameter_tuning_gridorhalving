@@ -31,10 +31,10 @@ This repository has the following main directories:
 
 Hyperparameter tuning using the standard GridSearch for classification and regressions are processed first. Then, Halving methods are applied to the same datasets with the same grid parameters. In both runs, in addition to measuring the processing time and performance effectiveness, the following is measured, compared and analyzed:
 
-For Regression Models:
+__For Regression Models:__
 * MSE, MAE and RMSE
 
-For Classification Models:
+__For Classification Models:__
 * Accuracy
 * F1 Scores
 * Confusion Metrics
