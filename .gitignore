@@ -1,5 +1,7 @@
 
 *.zip
+*.tsv
+*.json
 *.pyc
 *.ipynb_checkpoints
 *.DS_store
