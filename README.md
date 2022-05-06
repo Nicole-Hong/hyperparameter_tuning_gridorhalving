@@ -38,7 +38,6 @@ __For Classification Models:__
 * Accuracy
 * F1 Scores
 * Confusion Metrics
-* ROC / AUC
 
 ### System Requirements
 
@@ -46,7 +45,7 @@ This project has been developed using Python, Jupyter Notebook and Google CoLab,
 
 ### Data Requirements
 
-Data for Classification and Regression is obtained from Kaggle competitions so that the performance effectiveness can be measured.
+Data for Classification and Regression is obtained from sklearn datasets.
 
 ### Key Outputs
 
